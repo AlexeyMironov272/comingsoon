@@ -26,21 +26,44 @@ img{max-width:100%;}
 /*--end reset--*/
 
 
+html{
+	background-color: black;
+	
+}
+
 
 
 body{	
 	font-family: 'Roboto', sans-serif;
-	font-size: 100%;	
-	background-image: url(..//images/1.png);
-	background-color: black;
+	font-size: 100%;		
+	/* background-image: url(..//images/1.png) no-repeat;
+		background-size: 10%;
+		background-position: center;
+		background-attachment: fixed;
+		max-width: 1920px;
+		min-width: none;
+		max-height: 1080px;
+		min-width: none; */
+	/* background-color: black; */
 	
-    background:url(../images/1.jpg) no-repeat 0px 0px;
-	background-size:100%;
+    /* background:url(../images/1.jpg) no-repeat 0px 0px; */
+	/* background-size:100%;
 	background-position: center;
-	background-attachment: fixed;
+	background-attachment: fixed; */
 	/* padding:3em 0;
 	 */
 }
+
+.bgimg {
+	height: 1200px;
+	width: auto;
+	background-image: url(..//images/1.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: center;
+	background-attachment: fixed;
+}
+
 body a{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
