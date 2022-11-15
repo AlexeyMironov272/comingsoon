@@ -43,7 +43,7 @@ body a{
 	-ms-transition:0.5s all;
 }
 /*--background--*/
-h1 {
+h1 {	
     font-size: 1.5em;
     color: #fff;
     letter-spacing: 17px;
@@ -53,7 +53,7 @@ h1 {
 }
 h1 span{
     display: block;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 5em;
     font-weight: 300;
     letter-spacing: 1px;
@@ -122,7 +122,7 @@ h1 span{
     margin: 0 0 1em 0;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', sans-serif;
     font-weight: 600;
 }
 .newsletter input[type="text"] {
