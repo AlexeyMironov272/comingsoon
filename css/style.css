@@ -31,15 +31,15 @@ img{max-width:100%;}
 body{	
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;	
+	background-image: url(..//images/1.png);
+	background-color: black;
+	
     background:url(../images/1.jpg) no-repeat 0px 0px;
 	background-size:100%;
 	background-position: center;
 	background-attachment: fixed;
 	/* padding:3em 0;
-	max-width: 1920px;
-	max-height: 1080px;
-	min-height: 320px;
-	min-width: 240px; */
+	 */
 }
 body a{
 	transition:0.5s all;
