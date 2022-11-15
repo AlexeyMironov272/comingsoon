@@ -43,7 +43,8 @@ body a{
 	-ms-transition:0.5s all;
 }
 /*--background--*/
-h1 {	
+h1 {
+	padding-top: 20%;	
     font-size: 1.5em;
     color: #dddddd;
     letter-spacing: 17px;
