@@ -55,6 +55,7 @@ body{
 }
 
 .bgimg {
+	padding-top: auto;
 	height: 1200px;
 	width: auto;
 	background-image: url(..//images/1.png);
